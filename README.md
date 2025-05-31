@@ -1,5 +1,5 @@
 # 💫 About Me:
-☘ I'm currently studying computer science<br>👩‍💻 I'm learning frontend development
+☘ I'm currently studying computer science<br>👩‍💻 I'm making projects
 
 
 ## 🌐 Socials:
